@@ -24,9 +24,9 @@ Git • GitHub • VS Code • Jupyter Notebook • Kaggle
 
 ### Profiles
 
-GitHub → [Somiya Namdeo](https://github.com/somiya-namdeo)
+GitHub → [Somiya Namdeo - GitHub](https://github.com/somiya-namdeo)
 
-LinkedIn → [Somiya Namdeo](https://www.linkedin.com/in/somiya-namdeo-/)
+LinkedIn → [Somiya Namdeo- LinkedIn](https://www.linkedin.com/in/somiya-namdeo-/)
 
 ---
 
