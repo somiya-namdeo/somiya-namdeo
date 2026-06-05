@@ -28,6 +28,8 @@ Currently focused on developing practical AI solutions, scalable software system
 
 CareerLens AI — AI-Powered Career Intelligence Platform
 
+---
+
 ## Technical Skills
 
 | Category | Technologies & Expertise |
