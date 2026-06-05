@@ -33,13 +33,13 @@ CareerLens AI — AI-Powered Career Intelligence Platform
 | Category | Technologies & Expertise |
 |-----------|-------------|
 | Languages | Python, C++, Java, JavaScript, SQL |
-| Machine Learning | Supervised Learning, Unsupervised Learning, Classification, Regression, Boosting & Bagging, Ensemble Learning, End-to-End ML Pipelines, Feature Engineering, Model Evaluation, Model Optimization, Predictive Analytics, Explainable AI, MLOps Fundamentals |
+| Machine Learning | Supervised Learning, Unsupervised Learning, Classification, Regression, Ensemble Learning, Boosting & Bagging, End-to-End ML Pipelines, Feature Engineering, Model Evaluation, Model Optimization, Predictive Analytics, Explainable AI, MLOps Fundamentals |
 | AI Domains | Natural Language Processing, Computer Vision, Intelligent Systems, Behavioral Analytics |
-| ML Frameworks | Scikit-Learn, TensorFlow, PyTorch, XGBoost, CatBoost |
+| ML Frameworks | Scikit-Learn, XGBoost, CatBoost |
 | Data Science | Pandas, NumPy, Matplotlib, Data Analysis, Statistical Learning, Data Visualization |
 | Development | React.js, FastAPI, REST APIs, Tailwind CSS |
-| Database & Cloud | Supabase, Firebase |
-| Tools | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Kaggle |
+| Database | Supabase |
+| Tools & Deployment | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Kaggle, Figma, Vercel, Render |
 
 ---
 
@@ -56,32 +56,22 @@ CareerLens AI — AI-Powered Career Intelligence Platform
 
 ## Coding Profiles
 
-<a href="YOUR_LEETCODE_LINK">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode">
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/somiya_namdeo05/)
 
-<a href="YOUR_CODEFORCES_LINK">
-  <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square">
-</a>
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square)](https://codeforces.com/profile/somiya__)
 
-<a href="YOUR_CODECHEF_LINK">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=flat-square">
-</a>
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square)](https://www.codechef.com/users/extra_gale_88)
 
 ---
 
 ## Let's Connect
 
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Somiya_Namdeo-1565C0?style=flat-square&logo=linkedin">
+<a href="https://www.linkedin.com/in/somiya-namdeo/">
+  <img src="https://img.shields.io/badge/LinkedIn-Somiya_Namdeo-0A66C2?style=flat-square&logo=linkedin">
 </a>
 
 <a href="mailto:namdeosomiya2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail">
-</a>
-
-<a href="https://github.com/somiya-namdeo">
-  <img src="https://img.shields.io/badge/GitHub-somiya--namdeo-24292E?style=flat-square&logo=github">
 </a>
 
 ---
