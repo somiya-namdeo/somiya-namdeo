@@ -29,63 +29,16 @@ CareerLens AI — AI-Powered Career Intelligence Platform
 
 ## Technical Skills
 
-### Programming Languages
-
-`Python` `C++` `Java` `JavaScript` `SQL` `HTML` `CSS`
-
-### Frameworks & Development
-
-`React.js` `FastAPI` `REST APIs` `Tailwind CSS`
-
-### Libraries & Technologies
-
-`Scikit-Learn` `TensorFlow` `PyTorch` `XGBoost` `CatBoost`
-
-`Pandas` `NumPy` `Matplotlib`
-
-`OpenCV` `MediaPipe` `YOLO` `NLTK`
-
-### AI / Machine Learning
-
-`Machine Learning`
-`Deep Learning`
-`Natural Language Processing`
-`Computer Vision`
-`Predictive Analytics`
-`Feature Engineering`
-`Model Evaluation`
-`Model Optimization`
-`Behavioral Analytics`
-`Explainable AI`
-
-### Databases & Platforms
-
-`Supabase`
-`Firebase`
-`Linux`
-`Windows`
-
-### Tools
-
-`Git`
-`GitHub`
-`VS Code`
-`Jupyter Notebook`
-`Google Colab`
-`Kaggle`
-
----
-
-## Core Focus Areas
-
-| Area | Focus |
-|--------|--------|
-| Machine Learning | Classification, Regression, Ensemble Learning, Feature Engineering |
-| Data Science | Analytics, Visualization, Statistical Learning |
-| NLP | Sentiment Analysis, Text Processing, Language Understanding |
-| Computer Vision | Detection, Tracking, Real-Time Applications |
-| AI Systems | Intelligent Platforms, Recommendation Systems, Behavioral Analytics |
-| Software Engineering | APIs, Deployment, Full-Stack Development |
+| Category | Technologies & Expertise |
+|-----------|-------------|
+| Languages | Python, C++, Java, JavaScript, SQL |
+| Machine Learning | Supervised Learning, Unsupervised Learning, Classification, Regression, Boosting & Bagging, Ensemble Learning, End-to-End ML Pipelines, Feature Engineering, Model Evaluation, Model Optimization, Predictive Analytics, Explainable AI, MLOps Fundamentals |
+| AI Domains | Natural Language Processing, Computer Vision, Intelligent Systems, Behavioral Analytics |
+| ML Frameworks | Scikit-Learn, TensorFlow, PyTorch, XGBoost, CatBoost |
+| Data Science | Pandas, NumPy, Matplotlib, Data Analysis, Statistical Learning, Data Visualization |
+| Development | React.js, FastAPI, REST APIs, Tailwind CSS |
+| Database & Cloud | Supabase, Firebase |
+| Tools | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Kaggle |
 
 ---
 
