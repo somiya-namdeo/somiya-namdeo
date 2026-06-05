@@ -4,9 +4,10 @@
 
 ### AI & Machine Learning Developer
 
-![India](https://img.shields.io/badge/📍_India-43A047?style=flat-square)
-![Final Year](https://img.shields.io/badge/Final_Year-CSE_(AI_&_ML)-1976D2?style=flat-square)
-![Open](https://img.shields.io/badge/Open_to_Opportunities-FF7043?style=flat-square)
+![India](https://img.shields.io/badge/📍_India-2E7D32?style=flat-square)
+![VIT Bhopal](https://img.shields.io/badge/VIT_Bhopal_University-5D4037?style=flat-square)
+![B.Tech CSE (AI%26ML)](https://img.shields.io/badge/B.Tech_CSE_(AI%26ML)-283593?style=flat-square)
+![Open to Opportunities](https://img.shields.io/badge/Open_to_Opportunities-D84315?style=flat-square)
 
 Building intelligent systems through Machine Learning, Data Science, NLP, Computer Vision, and Software Engineering.
 
