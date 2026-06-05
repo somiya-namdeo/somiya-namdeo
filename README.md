@@ -35,7 +35,7 @@ CareerLens AI — AI-Powered Career Intelligence Platform
 | Category | Technologies & Expertise |
 |-----------|-------------|
 | Languages | Python, C++, Java, JavaScript, SQL |
-| Machine Learning | Supervised Learning, Unsupervised Learning, Classification, Regression, Ensemble Learning, Boosting & Bagging, End-to-End ML Pipelines, Feature Engineering, Model Evaluation, Model Optimization, Predictive Analytics, Explainable AI, MLOps Fundamentals |
+| Machine Learning | Supervised Learning, Unsupervised Learning, Classification, Regression, Ensemble Learning, Boosting & Bagging, End-to-End ML Pipelines, Feature Engineering, Model Evaluation, Model Optimization, Predictive Analytics, Explainable AI |
 | AI Domains | Natural Language Processing, Computer Vision, Intelligent Systems, Behavioral Analytics |
 | ML Frameworks | Scikit-Learn, XGBoost, CatBoost |
 | Data Science | Pandas, NumPy, Matplotlib, Data Analysis, Statistical Learning, Data Visualization |
