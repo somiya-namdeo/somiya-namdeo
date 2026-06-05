@@ -24,12 +24,6 @@ My experience spans machine learning, predictive analytics, natural language pro
 Currently focused on developing practical AI solutions, scalable software systems, and data-driven products with real-world impact.
 
 ---
-## Currently Building
-
-CareerLens AI — AI-Powered Career Intelligence Platform
-
----
-
 ## Technical Skills
 
 | Category | Technologies & Expertise |
@@ -45,14 +39,19 @@ CareerLens AI — AI-Powered Career Intelligence Platform
 
 ---
 
-## Currently Exploring
+## Current Learning Focus
 
-- Advanced Machine Learning
+- Deep Learning
+- Neural Network Architectures
 - Explainable AI (XAI)
 - Recommendation Systems
 - Workforce Intelligence Systems
-- MLOps Fundamentals
 - Production AI Engineering
+
+---
+## Currently Building
+
+CareerLens AI — AI-Powered Career Intelligence Platform
 
 ---
 
