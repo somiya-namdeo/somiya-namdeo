@@ -57,13 +57,9 @@ CareerLens AI — AI-Powered Career Intelligence Platform
 
 ## Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/somiya_namdeo05/)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square)](https://codeforces.com/profile/somiya__)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/somiya_namdeo05/) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square)](https://codeforces.com/profile/somiya__) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square)](https://www.codechef.com/users/extra_gale_88)
-
----
 
 ## Let's Connect
 
