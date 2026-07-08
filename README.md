@@ -51,8 +51,7 @@ Currently focused on developing practical AI solutions, scalable software system
 ---
 ## Currently Building
 
-CareerLens AI — AI-Powered Career Intelligence Platform
-
+SharePlate — AI-powered food redistribution platform featuring food safety prediction, shelf-life estimation, smart NGO matching, demand forecasting, and logistics intelligence.
 ---
 
 ## Coding Profiles
