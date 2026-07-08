@@ -50,9 +50,8 @@ Currently focused on developing practical AI solutions, scalable software system
 
 ---
 ## Currently Building
--
+
 SharePlate | AI-Powered Food Redistribution Platform with Food Safety Intelligence, Smart Matching & Demand Forecasting.
----
 
 ## Coding Profiles
 
